@@ -1,0 +1,16 @@
+container-fluid {
+	padding: 0px;
+	overflow-x: hidden;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color: darkred; 
+     text-decoration:none; 
+     cursor:pointer;  
+}

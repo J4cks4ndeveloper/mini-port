@@ -1,0 +1,11 @@
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color: darkred; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
